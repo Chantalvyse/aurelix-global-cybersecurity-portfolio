@@ -1,9 +1,10 @@
-# Aurelix Global 🔐
+# Aurelix Global
+
 ### Every system has a story. Let's uncover it.
 
 **Cybersecurity • Digital Defense • Risk Management • Project Leadership**
 
-## Well, hello there! 👋🏽✨
+## Well, hello there! 👋🏽
 
 I'm Ashley. Welcome to my little corner of the digital world, where curiosity tends to ask one question and somehow leaves with seven more.
 
@@ -13,7 +14,7 @@ Now I'm bringing that same curiosity into cybersecurity.
 
 Because behind every suspicious login, unexpected alert, or overlooked vulnerability, there's a story waiting to be understood. And I don't just want to know what happened. I want to understand why, what it means, and what we can do about it.
 
-So pull up a chair. We've got some dots to connect and a few mysteries to unravel. 🔎
+So pull up a chair. We've got some dots to connect and a few mysteries to unravel.
 
 ## Meet Aurelix Global 🌍
 
@@ -46,10 +47,10 @@ I'm building my skills through CompTIA Security+ SY0-701 preparation, Google Cyb
 
 This portfolio will grow with original investigations, scripts, reports, diagrams, lessons learned, and completed projects.
 
-## Before You Go... 💌
+## Before I let you go, just remember that...
 
 *Every system has a story. Every clue has a purpose. And every question is an invitation to look a little deeper.*
 
 **With curiosity & a little digital magic,**
 
-**Ashley ✨**
+**Ashley**
